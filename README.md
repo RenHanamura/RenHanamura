@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ren</h1>
 <h3 align="center">Student and half time programmer today, Engineer tomorrow</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/RenHanamura&color=blueviolet&style=flat-square" alt="RenHana" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RenHanamura&color=blueviolet&style=flat-square" alt="RenHana" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dealandmob&theme=onestar" alt="dealandmob" /></a> </p>
 
