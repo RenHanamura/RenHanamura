@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://cdn.picrew.me/shareImg/org/202405/1469769_E6v5utB3.png" alt="Me" width=350px height=350px /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RenHanamura&color=blueviolet&style=flat-square" alt="RenHana" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RenHanamura&theme=chalk&no-bg=true" alt="RenHanaStats" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RenHanamura&column=3&margin-w=15&margin-h=15&theme=chalk&no-bg=true" alt="RenHanaStats" /></a> </p>
 
 
 
