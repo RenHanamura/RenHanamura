@@ -14,6 +14,6 @@
 
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RenHanamura&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="RenYe" style="background-color: black;" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RenHana&show_icons=true&theme=midnight-purple&locale=en" alt="RenBoi" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RenHanamura&show_icons=true&theme=midnight-purple&locale=en" alt="RenBoi" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RenHana&&theme=midnight-purple" style="border-top = 10px;" alt="Renyippie" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RenHanamura&&theme=midnight-purple" style="border-top = 10px;" alt="Renyippie" /></p>
